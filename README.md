@@ -1,4 +1,4 @@
-# Store-scales-analysis
+# Store-scales-analysis-project
 A store want to compile a sales report for the year 2023 in order to improve customer understanding and increase sales in 2024.
 
 SAMPLE QUESTIONS:
